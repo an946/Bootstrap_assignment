@@ -1,0 +1,25 @@
+.navbar{
+  text-decoration-color: black;
+}
+
+.navbar-toggler-icon{
+  background-color: black;
+}
+.button{
+  background: rgb(16, 153, 199);
+  color: whitesmoke;
+  float: right
+}
+button{
+  background:rgb(13, 160, 209);
+  color: whitesmoke;
+  
+}
+.foot{
+  background: burlywood;
+  height: 20vh;
+}
+.navbar{
+   background: burlywood;
+   height: 20vh;
+}

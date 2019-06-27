@@ -22,4 +22,18 @@ button{
 .navbar{
    background: burlywood;
    height: 20vh;
+   font-size: 4vh;
+}
+
+.navbar-brand img{
+  height: 70px;
+  width: 70px;
+}
+
+.carousel-control-prev-icon{
+  margin-top: 100px;
+}
+
+.carousel-control-next-icon{
+  margin-top: 100px;
 }

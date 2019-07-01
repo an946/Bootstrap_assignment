@@ -17,7 +17,7 @@ button{
 }
 .foot{
   background: burlywood;
-  height: 20vh;
+  height: 25vh;
 }
 .navbar{
    background: burlywood;
@@ -39,4 +39,7 @@ button{
 }
 .col_head{
   background: rgb(95, 172, 129);
+}
+.nav-item{
+  background: burlywood;
 }

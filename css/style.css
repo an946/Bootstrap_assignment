@@ -16,12 +16,12 @@ button{
   
 }
 .foot{
-  background: burlywood;
-  height: 25vh;
+  background: royalblue;
+  height:100%;
+  
 }
-.navbar{
-   background: burlywood;
-   height: 20vh;
+header{
+   background: royalblue;
    font-size: 4vh;
 }
 
@@ -38,8 +38,28 @@ button{
   margin-top: 100px;
 }
 .col_head{
-  background: rgb(95, 172, 129);
+  background: royalblue;
 }
 .nav-item{
-  background: burlywood;
+  background: royalblue;
+  text-decoration-color: black;
+}
+.toupper{
+  text-transform: uppercase;
+}
+.tablink{
+  width:70px;
+  height:50px;
+}
+
+footer a{
+  color: blue;
+  font-size: 30px;
+}
+footer ul{
+  list-style-type: none;
+  
+}
+.foot-content{
+  margin-left: 70px;
 }
